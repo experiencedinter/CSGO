@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+CSGO filter=lfs diff=lfs merge=lfs -text
+CASE filter=lfs diff=lfs merge=lfs -text
+SIMULATOR.rar filter=lfs diff=lfs merge=lfs -text
+CSGO_CASE_SIMULATOR.rar filter=lfs diff=lfs merge=lfs -text
